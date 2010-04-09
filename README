@@ -1,0 +1,13 @@
+CSHM (Circular Shared Memory Buffer) Networking Plug-in
+---------------------------------------------------------
+
+Networking library to replicate cshm channels. This library acts as a wrapper over the cshm library making it seamlessly run over a TCP connection.
+
+Installation:
+Download cshm from git@github.com:pushkar/cshm.git
+Install cshm
+Install cshm-net
+
+
+Documentation:
+See /doc or man 
